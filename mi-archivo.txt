@@ -1,1 +1,42 @@
 Respuestas al tp2:
+• ¿Qué es GitHub?
+GitHub es una plataforma de desarrollo colaborativo. Se utiliza para alojar proyectos en servidores gratuitos o de pago, utilizando el sistema de control de versiones. 
+• ¿Cómo crear un repositorio en GitHub?
+Para crear un repositorio en GitHub primero es necesario crear una cuenta en la plataforma. Una vez que tenes la cuenta abierta en tu navegador es necesario hacer click en el boton "New" para crear un nuevo repositorio, despues tenes que elegir un nombre que no este en uso para tu repositorio, darle una descripcion, elegir si queres que sea público o provado y finalmelte dar click al boton "Create Repository"
+• ¿Cómo crear una rama en Git?
+Para crear una rama lo hacemos con el comando "git branch" + el nombre de la nueva rama
+• ¿Cómo cambiar a una rama en Git?
+Para cambiar a una rama distinta lo hacemos con el comando "git checkout" + nombre de la rama a la que nos queremos dirigir
+• ¿Cómo fusionar ramas en Git?
+Para fusionar las ramas lo hacemos con el comando "git merge"
+• ¿Cómo crear un commit en Git?
+Para crear un commit en GIT lo hacemos con el comando "git commit -m "Mensaje del commit"
+• ¿Cómo enviar un commit a GitHub?
+ Para enviar un commit a GitHub debemos usar el comando "git push -u origin" + el nombre de la rama cuysa modificaciones queremos mandar al repositorio remoto
+• ¿Qué es un repositorio remoto?
+Es un repositorio alojado en servidores externos al que podemos acceder desde cualquier ordenador con conección a internet. Por ejemplo los repositorios creados en GitHub son repositorios remotos
+• ¿Cómo agregar un repositorio remoto a Git?
+Podemos agregar un repositorio remoto a git con el comando "git remote add origin" + el link del repositorio remoto
+• ¿Cómo empujar cambios a un repositorio remoto?
+Con el comando "git push -u origin" + el nombre de la rama
+• ¿Cómo tirar de cambios de un repositorio remoto?
+Con el comando "git pull origin" + el nombre de la rama
+• ¿Qué es un fork de repositorio?
+Es una bifurcación del codigo original que permite generar cambios en repositorios de otras personas, manteniendo el repositorio original intacto y creando una "fotocopia" del código original. 
+• ¿Cómo crear un fork de un repositorio?
+En el navegador abrimos el link del repositorio que queremos bifurcar y hacemos click en el boton Fork, seguimos las instrucciones para clonarlo en nuestro ordenador y ya.
+• ¿Cómo enviar una solicitud de extracción (pull request) a un repositorio?
+• ¿Cómo aceptar una solicitud de extracción?
+• ¿Qué es un etiqueta en Git?
+• ¿Cómo crear una etiqueta en Git?
+• ¿Cómo enviar una etiqueta a GitHub?
+• ¿Qué es un historial de Git?
+• ¿Cómo ver el historial de Git?
+• ¿Cómo buscar en el historial de Git?
+• ¿Cómo borrar el historial de Git?
+• ¿Qué es un repositorio privado en GitHub?
+• ¿Cómo crear un repositorio privado en GitHub?
+• ¿Cómo invitar a alguien a un repositorio privado en GitHub?
+• ¿Qué es un repositorio público en GitHub?
+• ¿Cómo crear un repositorio público en GitHub?
+• ¿Cómo compartir un repositorio público en GitHub?
